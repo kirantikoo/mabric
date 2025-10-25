@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mabric/static/css/main.7a6387f8.css",
-    "main.js": "/mabric/static/js/main.41d8965e.js",
-    "index.html": "/mabric/index.html",
-    "main.7a6387f8.css.map": "/mabric/static/css/main.7a6387f8.css.map",
-    "main.41d8965e.js.map": "/mabric/static/js/main.41d8965e.js.map"
+    "main.css": "./static/css/main.7a6387f8.css",
+    "main.js": "./static/js/main.9ef9c48c.js",
+    "index.html": "./index.html",
+    "main.7a6387f8.css.map": "./static/css/main.7a6387f8.css.map",
+    "main.9ef9c48c.js.map": "./static/js/main.9ef9c48c.js.map"
   },
   "entrypoints": [
     "static/css/main.7a6387f8.css",
-    "static/js/main.41d8965e.js"
+    "static/js/main.9ef9c48c.js"
   ]
 }
