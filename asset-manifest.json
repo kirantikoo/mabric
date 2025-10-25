@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kirantikoo/mabric/static/css/main.7a6387f8.css",
+    "main.js": "/kirantikoo/mabric/static/js/main.a0fc9377.js",
+    "index.html": "/kirantikoo/mabric/index.html",
+    "main.7a6387f8.css.map": "/kirantikoo/mabric/static/css/main.7a6387f8.css.map",
+    "main.a0fc9377.js.map": "/kirantikoo/mabric/static/js/main.a0fc9377.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a6387f8.css",
+    "static/js/main.a0fc9377.js"
+  ]
+}
