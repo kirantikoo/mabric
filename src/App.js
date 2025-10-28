@@ -19,7 +19,7 @@ import Contact from "./pages/Contact";
 function App() {
   return (
     <ThemeProvider>
-      <BrowserRouter basename="/mabric">
+      <BrowserRouter basename="/">
         <div className="App min-h-screen flex flex-col">
           <Navbar />
           <main className="flex-grow">
