@@ -30,7 +30,7 @@ const Navbar = () => {
             />
             <div className="flex flex-col">
               <span className="text-2xl font-bold text-gray-900 dark:text-white" style={{ fontFamily: 'Playfair Display, serif' }}>
-                MABRIC
+                MABRIC INTERIO
               </span>
               <span className="text-xs text-amber-600 dark:text-amber-500 tracking-widest">DESIGN. BUILD. INSPIRE</span>
             </div>

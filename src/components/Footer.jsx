@@ -20,7 +20,7 @@ const Footer = () => {
           />
           <div>
             <span className="text-2xl font-bold text-white" style={{ fontFamily: 'Playfair Display, serif' }}>
-              MABRIC
+              MABRIC INTERIO
             </span>
             <p className="text-xs text-amber-500 tracking-widest">DESIGN. BUILD. INSPIRE</p>
           </div>
