@@ -278,14 +278,14 @@ const Home = () => {
             Ready to Transform Your Space?
           </h2>
           <p className="text-xl mb-8 opacity-90">
-            Book a free consultation with our expert designers today
+            Book a consultation with our expert designers today
           </p>
           <Button
             size="lg"
             onClick={() => navigate('/contact')}
             className="bg-white text-amber-600 hover:bg-gray-100 text-lg px-8 py-6"
           >
-            Schedule Free Consultation
+            Schedule Consultation
             <ArrowRight className="ml-2 h-5 w-5" />
           </Button>
         </div>
