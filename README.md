@@ -1,32 +1,16 @@
-GitHub Deploy (React App)
+# Mabric Project
 
-Step 1:
-git init
-git add.
-git commit -m "first commit"
-git branch -M main
-git remote add origin <Repo-link>
-git push -u origin main
+Front-end web project demonstrating layout and interaction design.
 
-Step 2:
-npm i gh-pages
+## 🚀 Features
 
-step 2:
+* UI components
+* Responsive design
 
-(package.json)
-"homepage" : "https://<username>.github.io/<Repo-name>",
+## 🛠️ Tech Stack
 
-(Script)
-"predeploy" : "npm run build",
-"deploy" : "gh-pages -d dist",
+JavaScript, HTML, CSS
 
-(vite.config.js)
-base: '/Repo/',
+## 👨‍💻 Author
 
-(index.html)
-
-<script type="module" src="./src/main.jsx"></script>
-
-Step 4:
-npm run build
-npm run deploy
+Kiran Tikoo
